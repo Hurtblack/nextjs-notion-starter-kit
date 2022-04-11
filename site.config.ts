@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '8ebb711165d44b1a9c357e352e1a6130',
+  rootNotionPageId: '3c6ca61f57b04b18bc227fb7d511ddea',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '内河大魔王',
-  domain: 'https://ltyzqhh.notion.site/8ebb711165d44b1a9c357e352e1a6130',
+  domain: 'https://ltyzqhh.notion.site/Getting-Started-on-Mobile-3c6ca61f57b04b18bc227fb7d511ddea',
   author: '内河',
 
   // open graph metadata (optional)

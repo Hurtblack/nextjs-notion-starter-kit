@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '内河大魔王',
-  domain: 'https://www.notion.so/8ebb711165d44b1a9c357e352e1a6130',
+  domain: 'https://www.ltyzqhh.top',
   author: '内河',
 
   // open graph metadata (optional)

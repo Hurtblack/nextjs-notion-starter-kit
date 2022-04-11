@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e34198b9092149fe8ccedf6c72e24bc8',
+  rootNotionPageId: '72bd8fd4a0174ebd83500d051412b17e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '内河大魔王',
-  domain: 'https://ltyzqhh.notion.site/ltyzqhh/e34198b9092149fe8ccedf6c72e24bc8?v=2ec52b21487c4f59bf36c38b7aa6abb0',
+  domain: 'https://ltyzqhh.notion.site/HurtBlack-Blog-72bd8fd4a0174ebd83500d051412b17e',
   author: '内河',
 
   // open graph metadata (optional)
